@@ -4,10 +4,12 @@ title: Publications
 permalink: /pub/
 ---
 
+- [Google Schoolar](https://scholar.google.com/citations?user=Ag1plqUAAAAJ)
+
 - **Input Convex Neural Networks**
 	- Brandon Amos, **Lei Xu**, J. Zico Kolter
 	- arXiv preprint arXiv:1609.07152 (short version previously on NIPS workshop)
-	- [\[pdf\]](https://arxiv.org/pdf/1609.07152.pdf)
+	- [\[pdf\]](https://arxiv.org/pdf/1609.07152.pdf)[\[code\]](https://github.com/locuslab/icnn)
 
 - **Continuous Action Reinforcement Learning using Input Convex Neural Networks**
 	- Brandon Amos, **Lei Xu**, J. Zico Kolter
@@ -21,4 +23,4 @@ permalink: /pub/
 - **Joint Learning of Character and Word Embeddings**
 	- Xinxiong Chen\*, **Lei Xu**\*, Zhiyuan Liu, Maosong Sun, Huanbo Luan
 	- Proceedings of IJCAI, Buenos Aires, 2015
-	- [\[pdf\]](http://www.thunlp.org/~lzy/publications/ijcai2015_character.pdf)[\[Code\]](https://github.com/Leonard-Xu/CWE)
+	- [\[pdf\]](http://www.thunlp.org/~lzy/publications/ijcai2015_character.pdf)[\[code\]](https://github.com/Leonard-Xu/CWE)
