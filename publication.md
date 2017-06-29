@@ -8,7 +8,7 @@ permalink: /pub/
 
 - **Input Convex Neural Networks**
 	- Brandon Amos, **Lei Xu**, J. Zico Kolter
-	- arXiv preprint arXiv:1609.07152 (short version previously on NIPS workshop)
+	- Proceedings of ICML, Sydney, 2017 (short version previously on NIPS workshop)
 	- [\[pdf\]](https://arxiv.org/pdf/1609.07152.pdf)[\[code\]](https://github.com/locuslab/icnn)
 
 - **Continuous Action Reinforcement Learning using Input Convex Neural Networks**
