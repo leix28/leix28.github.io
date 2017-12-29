@@ -4,7 +4,7 @@ title: Publications
 permalink: /pub/
 ---
 
-- [Google Schoolar](https://scholar.google.com/citations?user=Ag1plqUAAAAJ)
+- [Google Schoolar](https://scholar.google.com/citations?user=lkF92IsAAAAJ&hl=en)
 
 - **Input Convex Neural Networks**
 	- Brandon Amos, **Lei Xu**, J. Zico Kolter
