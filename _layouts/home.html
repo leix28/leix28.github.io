@@ -38,13 +38,11 @@ layout: default
 
   {{ content }}
 
-  <ul class="post-list">
+    <table>
     {% for post in site.posts %}
-      <li>
-        <table>
           <tr>
-            <td>
-              <img src="{{post.imgurl | escape}}" width="180">
+            <td style="width: 200px;">
+              <img src="{{post.imgurl | escape}}" width="100%">
             </td>
             <td style="vertical-align:top">
               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -53,11 +51,9 @@ layout: default
               </h2>
             </td>
           </tr>
-        </table>
-      </li>
     {% endfor %}
-  </ul>
-
+  </table>
+  
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
 </div>
