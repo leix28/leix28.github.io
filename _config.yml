@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Lei Xu
 email: leix@mit.edu
-description: "Last Update: Jul. 4, 2018"
+description: "Last Update: Sep. 6, 2019"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: XuLeonard
