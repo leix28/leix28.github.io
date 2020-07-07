@@ -6,6 +6,11 @@ permalink: /pub/
 
 - [Google Schoolar](https://scholar.google.com/citations?user=lkF92IsAAAAJ&hl=en)
 
+- **Modeling Tabular Data using Conditional GAN**
+	- **Lei Xu**, Maria Skoularidou, Alfredo Cuesta-Infante, Kalyan Veeramachaneni
+	- Proceedings of NeurIPS, Vancouver, 2019
+	- [\[pdf\]](https://arxiv.org/pdf/1907.00503.pdf)[\[code\]](https://github.com/sdv-dev/CTGAN)[\[benchmark\]](https://github.com/sdv-dev/SDGym)
+
 - **Input Convex Neural Networks**
 	- Brandon Amos, **Lei Xu**, J. Zico Kolter
 	- Proceedings of ICML, Sydney, 2017
