@@ -33,7 +33,7 @@ permalink: /pub/
 
 - **Topic Sensitive Neural Headline Generation**
 	- **Lei Xu**\*, Ziyun Wang*, Ayana, Zhiyuan Liu, Maosong Sun
-	- arXiv preprint arXiv:1608.05777
+	- ArXiv preprint, 2016
 	- [\[pdf\]](https://arxiv.org/pdf/1608.05777.pdf)
 
 - **Joint Learning of Character and Word Embeddings**
