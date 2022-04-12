@@ -11,6 +11,16 @@ permalink: /pub/
 	- Findings of NAACL-HLT, Seattle, 2022
 	- [\[pdf\]](https://arxiv.org/pdf/2204.05239.pdf)[\[code\]](https://github.com/leix28/prompt-universal-vulnerability)
 
+- **Attacking Text Classifiers via Sentence Rewriting Sampler**
+	- **Lei Xu**, Kalyan Veeramachaneni
+	- ArXiv preprint, 2021
+	- [\[pdf\]](https://arxiv.org/pdf/2104.08453)[\[code\]](https://github.com/DAI-Lab/fibber)
+
+- **AutoML to Date and Beyond: Challenges and Opportunities**
+	- Shubhra Kanti Karmaker, Md Mahadi Hassan, Micah J Smith, **Lei Xu**, Chengxiang Zhai, Kalyan Veeramachaneni
+	- ACM Computing Surveys, 2021
+	- [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3470918)
+
 - **Modeling Tabular Data using Conditional GAN**
 	- **Lei Xu**, Maria Skoularidou, Alfredo Cuesta-Infante, Kalyan Veeramachaneni
 	- Proceedings of NeurIPS, Vancouver, 2019
