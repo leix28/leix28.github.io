@@ -6,6 +6,11 @@ permalink: /pub/
 
 - [Google Schoolar](https://scholar.google.com/citations?user=lkF92IsAAAAJ&hl=en)
 
+- **Exploring the Universal Vulnerability of Prompt-based Learning Paradigm**
+	- **Lei Xu**, Yangyi Chen, Ganqu Cui, Hongcheng Gao, Zhiyuan Liu
+	- Findings of NAACL-HLT, Seattle, 2022
+	- [\[pdf\]](https://arxiv.org/pdf/2204.05239.pdf)[\[code\]](https://github.com/leix28/prompt-universal-vulnerability)
+
 - **Modeling Tabular Data using Conditional GAN**
 	- **Lei Xu**, Maria Skoularidou, Alfredo Cuesta-Infante, Kalyan Veeramachaneni
 	- Proceedings of NeurIPS, Vancouver, 2019
