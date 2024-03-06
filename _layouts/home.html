@@ -2,98 +2,36 @@
 layout: default
 ---
 
-<div class="home">
+<div class="container-fluid">
 
-  <table style="width:100%; margin-bottom: 50px">
-    <tr>
-    <td><img style="-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;" src="/misc/me5.jpg" width="200"></td>
-    <td style="text-align:center">
-        <h1>Lei Xu (徐 磊)</h1>
-        <p>Ph.D. in Computer Science, MIT<a href="/misc/cv.pdf">[CV]</a> <a href="/pub">[Publications]</a> <br>
-        Applied Scientist at Amazon AWS<br>
-        Email: <a href="mailto:leix@mit.edu?Subject=Via%20Homepage:">leix@mit.edu</a> <a href="mailto:leix328@gmail.com?Subject=Via%20Homepage:">leix328@gmail.com</a><br><br>
-        <a href="https://github.com/{{ include.username }}"><img width="32px" height="32px" src="/misc/github.png"></img></a>
-        <a href="https://scholar.google.com/citations?user=lkF92IsAAAAJ&hl=en"><img width="32px" height="32px" src="/misc/gscholar.png"></img></a>
-        </p>
-    </td>
-    </tr>
-  </table>
-
-  <h1 class="page-heading" style="padding-top:3ex">About Me</h1>
-
-  <div>
-      I got my Ph.D. in Computer Science from <a href="http://www.mit.edu">MIT</a> in 2023, advised by <a href="http://www.kalyanv.org/">Dr. Kalyan Veeramachaneni</a>.
-      My current research interests lie in robustness in natural language processing, in particular large language models, text generation and model robustness. During the past few years, I worked on several interesting topics including synthetic data generation, generative adversarial networks, sequence-to-sequence text summarization, word embeddings and deep reinforcement learning. 
-      I got a Bachelor's degree in <a href="http://www.cs.tsinghua.edu.cn">Computer Science and Technology</a> at <a href="http://www.tsinghua.edu.cn">Tsinghua University</a> in June 2017. I worked with <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu(THU)</a> and <a href="http://zicokolter.com">J. Zico Kolter(CMU)</a> during my undergrad.</p> 
+  <div class="container">
+  <div class="row">
+    <div class="col-4">
+      <img style="-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px; width: 100%;" src="/misc/me6.jpg">
+    </div>
+    <div class="col-1"></div>
+    <div class="col-7">
+      <h1>Lei Xu (徐 磊)</h1>
+      <p>Ph.D. in Computer Science, MIT<br>
+      Applied Scientist at Amazon AWS<br>
+      Email: 
+      <a href="mailto:leix328@gmail.com?Subject=Via%20Homepage:">leix328@gmail.com</a><br><br/>
+      <!-- <a href="/misc/cv.pdf">[CV]</a>  -->
+      <a href="/pub" target="_blank">[Publications]</a>
+      <br><br>
+      <a href="https://github.com/{{ include.username }}"><img width="32px" height="32px" src="/misc/github.png"></img></a>
+      <a href="https://scholar.google.com/citations?user=lkF92IsAAAAJ&hl=en"><img width="32px" height="32px" src="/misc/gscholar.png"></img></a>
+      <a href="https://www.linkedin.com/in/lei-xu-b78238a4/"><img width="32px" height="32px" src="/misc/linkedin.png"></img></a>
+      <a href="https://twitter.com/XuLeonard"><img width="32px" height="32px" src="/misc/twitter.png"></img></a>
+      </p>
+    </div>
+  </div>
   </div>
 
-  <h1 class="page-heading" style="padding-top:3ex">News</h1>
-  <ul>
-    <li> <strong>I joined Amazon AWS as an applied scientist in February 2023.</strong> </li>
-    <li> 1 paper accepted to IJCNN 2022 </li>
-    <li> 1 paper accepted to Findings of AACL-IJCNLP 2022 </li>
-    <li> 1 paper accepted to Findings of NAACL-HLT 2022 </li>
-  </ul>
 
-  <h1 class="page-heading" style="padding-top:3ex">Experiences</h1>
-  <ul>
-    <li>Amazon AWS: Applied Scientist (2022/02~present, New York City)</li>
-    <li>Google: Software Engineer Intern (2020/05~2020/08, New York City, WFH due to COVID-19)</li>
-    <li>Google: Software Engineer (Research) Intern (2019/05~2019/08, Mountain View)</li>
-    <li><a href="http://www.shannonai.com">Shannon.AI</a>: Software Engineer Intern (2018/05~2018/08, Beijing)</li>
-  </ul>
+  <div class="container" style="padding-top: 20px;">
+  {{ content }}    
+  </div>
 
-  <h1 class="page-heading" style="padding-top:3ex">Services</h1>
-  <ul>
-    <li>Reviewer: ICML-2020 (top 33% ranking reviewer), NeurIPS-2020, ICLR-2021, ICML-2021, NeurIPS-2021, AAAI-2022, COLING-2022, EMNLP-2022, ICLR-2023, ACL-2023</li>
-  </ul>
-
-  <h1 class="page-heading" style="padding-top:3ex">Media</h1>
-  <ul>
-    <li>The textual adversarial attack project is covered by VentureBeat:
-    <a href="https://venturebeat.com/ai/how-mit-is-training-ai-language-models-in-an-era-of-quality-data-scarcity/amp/">How MIT is training AI language models in an era of quality data scarcity</a></li>
-    <li>The synthetic data (CTGAN) project is covered by MIT NEWS:
-      <a href="https://news.mit.edu/2020/real-promise-synthetic-data-1016">
-      The real promise of synthetic data</a></li>
-  </ul>
-
-  <h1 class="page-heading" style="padding-top:3ex">Collaborators</h1>
-  I am fortunate to work with these great people:
-  <a href="http://www.kalyanv.org/">Kalyan Veeramachaneni(MIT)</a>,
-  <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu(THU)</a>,
-  <a href="http://zicokolter.com">J. Zico Kolter(CMU)</a>,
-  Ji Xue(Google),
-  <a href="http://qingqinghuang.github.io">Qingqing Huang(Google)</a>,
-  Xinxiong Chen(THU),
-  <a href="http://bamos.github.io">Brandon Amos(CMU)</a>,
-  Ziyun Wang(THU),
-  <a href="http://www.caporesearch.es/acuesta/">Alfredo Cuesta Infante(Universidad Rey Juan Carlos)</a>,
-  <a href="https://karmake2.github.io">Shubhra Kanti Karmaker(MIT)</a>,
-  Kevin Zhang(MIT),
-  Rechard Liu(MIT),
-  Yangyi Chen (HUST),
-  Ganqu Cui (THU),
-  Hongcheng Gao (CQU).
-
-  <!--
-  {{ content }}
-
-    <table>
-    {% for post in site.posts %}
-          <tr>
-            <td style="width: 200px;">
-              <img src="{{post.imgurl | escape}}" width="100%">
-            </td>
-            <td style="vertical-align:top">
-              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-              <h2>
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-              </h2>
-            </td>
-          </tr>
-    {% endfor %}
-  </table> -->
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
 </div>
