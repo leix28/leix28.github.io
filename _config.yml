@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lei Xu
-email: leix@mit.edu
-last_update: "Mar. 6, 2024"
+email: leix328@gmail.edu
+last_update: "Jul. 30, 2024"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leixx.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: XuLeonard
