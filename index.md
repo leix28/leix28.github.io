@@ -7,21 +7,20 @@ layout: home
 
 ### About Me
 
-I'm an Applied Scientist at [Amazon AWS](https://aws.amazon.com). My research convers a wide range of topics in natural language processing and machine learning. 
-Recently, my work has been focused on the application of large language models in the medical domain. 
-My long-term objective is to pave the way for robust and deployable LLM applications.
+I'm an Applied Scientist at [Amazon AWS](https://www.amazon.science/author/lei-xu). My research covers a wide range of topics in natural language processing and machine learning. 
+Recently, my work has focused on the application of large language models in the medical domain. 
+My long-term objective is to pave the way for robust and deployable LLM applications. 
+This involves addressing various challenges such as improving data quality, optimizing task-specific model performance, and developing reliable evaluation methods.
 
-I got my Ph.D. in Computer Science from [MIT](http://www.mit.edu) in 2023, and B.Eng. from [Tsinghua University](http://www.tsinghua.edu.cn). 
+I received my Ph.D. in Computer Science from [MIT](http://www.mit.edu) in 2023, and my B.Eng. from [Tsinghua University](http://www.tsinghua.edu.cn). 
 
 
-<br/>
 ### News
 
-**Jul. 2023**: AWS Announces [HealthScribe](https://aws.amazon.com/healthscribe/) Service. <br/>
-**Feb. 2023**: I joined Amazon AWS as an applied scientist.
+- **May 2023**: Our position paper *[ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models](https://arxiv.org/pdf/2405.18638)* is accepted to ACL 2024 main conference.
+- **Jul. 2023**: AWS Announces [HealthScribe](https://aws.amazon.com/healthscribe/) Service.
+- **Feb. 2023**: I joined Amazon AWS as an applied scientist.
 
-
-<br/>
 
 ### Selected Projects
 
