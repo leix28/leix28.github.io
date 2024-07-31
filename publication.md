@@ -8,6 +8,10 @@ permalink: /pub/
 <br/>
 
 ### 2024
+- **ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models**
+	- Aparna Elangovan, Ling Liu, **Lei Xu**, Sravan Bodapati, Dan Roth
+	- Proceedings of ACL, Bangkok, 2024
+	- [\[pdf\]](https://arxiv.org/pdf/2405.18638)
 - **Single word change is all you need: Designing attacks and defenses for text classifiers**
 	- **Lei Xu**, Sarah Alnegheimish, Laure Berti-Equille, Alfredo Cuesta-Infante, Kalyan Veeramachaneni
 	- ArXiv
