@@ -17,7 +17,7 @@ I received my Ph.D. in Computer Science from [MIT](http://www.mit.edu) in 2023, 
 
 ### News
 
-- **May 2023**: Our position paper *[ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models](https://arxiv.org/pdf/2405.18638)* is accepted to ACL 2024 main conference.
+- **May 2024**: Our position paper *[ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models](https://arxiv.org/pdf/2405.18638)* is accepted to ACL 2024 main conference.
 - **Jul. 2023**: AWS Announces [HealthScribe](https://aws.amazon.com/healthscribe/) Service.
 - **Feb. 2023**: I joined Amazon AWS as an applied scientist.
 
