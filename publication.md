@@ -8,6 +8,15 @@ permalink: /pub/
 <br/>
 
 ### 2024
+
+- **CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**
+	- Han He\*, Qianchu Liu\*, **Lei Xu**\* (\*equal contribution), Chaitanya Shivade, Yi Zhang, Sundararajan Srinivasan, Katrin Kirchhoff
+	- ArXiv preprint, 2024
+	- [\[pdf\]](https://arxiv.org/pdf/2410.02748)
+- **Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**
+	- **Lei Xu**, Mohammed Asad Karim, Saket Dingliwal, Aparna Elangovan
+	- Proceedings of EMNLP, Miami, 2024
+	- [\[pdf\]](https://arxiv.org/pdf/2410.02741)
 - **ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models**
 	- Aparna Elangovan, Ling Liu, **Lei Xu**, Sravan Bodapati, Dan Roth
 	- Proceedings of ACL, Bangkok, 2024
@@ -66,6 +75,7 @@ permalink: /pub/
 	- [\[pdf\]](https://arxiv.org/pdf/1909.01285.pdf)
 
 ### 2018
+
 - **Synthesizing tabular data using generative adversarial networks**
 	- **Lei Xu**, Kalyan Veeramachaneni
 	- ArXiv
