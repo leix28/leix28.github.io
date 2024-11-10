@@ -16,7 +16,7 @@ permalink: /pub/
 - **Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**
 	- **Lei Xu**, Mohammed Asad Karim, Saket Dingliwal, Aparna Elangovan
 	- Proceedings of EMNLP, Miami, 2024
-	- [\[pdf\]](https://arxiv.org/pdf/2410.02741)
+	- [\[pdf\]](https://arxiv.org/pdf/2410.02741) [\[code\]](https://github.com/amazon-science/SigExt) [\[poster\]](/misc/poster/EMNLP2024-ExtSig-poster.pdf)
 - **ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models**
 	- Aparna Elangovan, Ling Liu, **Lei Xu**, Sravan Bodapati, Dan Roth
 	- Proceedings of ACL, Bangkok, 2024
