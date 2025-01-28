@@ -8,7 +8,7 @@ permalink: /pub/
 <br/>
 
 ### 2024
-- **eyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge**
+- **Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge**
 	- Aparna Elangovan, **Lei Xu**\*, Jongwoo Ko\*, Mahsa Elyasi\* (\*equal contribution), Ling Liu, Sravan Bodapati, Dan Roth
 	- Proceddings of ICLR, Singapore, 2025
 	- [\[pdf\]](https://arxiv.org/pdf/2410.03775) [\[code\]](https://github.com/amazon-science/BeyondCorrelation)
