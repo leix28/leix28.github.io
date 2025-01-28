@@ -7,7 +7,8 @@ permalink: /pub/
 #### See [Google Schoolar](https://scholar.google.com/citations?user=lkF92IsAAAAJ&hl=en) for the latest list.
 <br/>
 
-### 2024
+
+### 2025
 - **Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge**
 	- Aparna Elangovan, **Lei Xu**\*, Jongwoo Ko\*, Mahsa Elyasi\* (\*equal contribution), Ling Liu, Sravan Bodapati, Dan Roth
 	- Proceddings of ICLR, Singapore, 2025
@@ -16,6 +17,8 @@ permalink: /pub/
 	- Han He\*, Qianchu Liu\*, **Lei Xu**\* (\*equal contribution), Chaitanya Shivade, Yi Zhang, Sundararajan Srinivasan, Katrin Kirchhoff
 	- Proceddings of AAAI, Philadelphia, 2025
 	- [\[pdf\]](https://arxiv.org/pdf/2410.02748) [\[code\]](https://github.com/amazon-science/CriSPO)
+
+### 2024
 - **Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**
 	- **Lei Xu**, Mohammed Asad Karim, Saket Dingliwal, Aparna Elangovan
 	- Proceedings of EMNLP, Miami, 2024
