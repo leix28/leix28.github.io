@@ -16,12 +16,12 @@ I received my Ph.D. in Computer Science from [MIT](http://www.mit.edu) in 2023, 
 
 
 ### News
-
-- **Dec 2024**: Check out our AAAI 2025 paper *[CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation](https://arxiv.org/pdf/2410.02748)* for more effective automatic prompt engineering!
+- **Jan 2024**: Check out our ICLR 2025 paper *[Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge](https://arxiv.org/pdf/2410.03775)* to see how metrics can be **misleading**.
+- **Dec 2024**: Check out our AAAI 2025 (oral) paper *[CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation](https://arxiv.org/pdf/2410.02748)* for more effective automatic prompt engineering!
 - **Oct 2024**: Our paper *[Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization](https://arxiv.org/pdf/2410.02741)* is accepted to EMNLP 2024 Industry Track. [\[code\]](https://github.com/amazon-science/SigExt)
 - **May 2024**: Our position paper *[ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models](https://arxiv.org/pdf/2405.18638)* is accepted to ACL 2024 main conference.
-- **Jul. 2023**: AWS Announces [HealthScribe](https://aws.amazon.com/healthscribe/) Service.
-- **Feb. 2023**: I joined Amazon AWS as an applied scientist.
+<!-- - **Jul. 2023**: AWS Announces [HealthScribe](https://aws.amazon.com/healthscribe/) Service. -->
+<!-- - **Feb. 2023**: I joined Amazon AWS as an applied scientist. -->
 
 
 ### Selected Projects
