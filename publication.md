@@ -16,7 +16,7 @@ permalink: /pub/
 - **CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**
 	- Han He\*, Qianchu Liu\*, **Lei Xu**\* (\*equal contribution), Chaitanya Shivade, Yi Zhang, Sundararajan Srinivasan, Katrin Kirchhoff
 	- Proceddings of AAAI, Philadelphia, 2025
-	- [\[pdf\]](https://arxiv.org/pdf/2410.02748) [\[code\]](https://github.com/amazon-science/CriSPO)
+	- [\[pdf\]](https://arxiv.org/pdf/2410.02748) [\[code\]](https://github.com/amazon-science/CriSPO) [\[poster\]](/misc/poster/AAAI2025-CriSPO-poster.pdf)
 
 ### 2024
 - **Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**
